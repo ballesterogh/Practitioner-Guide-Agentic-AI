@@ -1,11 +1,8 @@
 # A Practitioner's Guide to Agentic AI Tools
 
-**Gonzalo Ballestero**  
-Pennsylvania State University — gballestero@psu.edu
+This repository contains the slides for a talk on how economists can use agentic AI tools in their research workflow, with a focus on Claude Code by Gonzalo Ballestero.
 
 ---
-
-These are the slides for a talk on how economists can use agentic AI tools in their research workflow, with a focus on Claude Code.
 
 ## Contents
 
