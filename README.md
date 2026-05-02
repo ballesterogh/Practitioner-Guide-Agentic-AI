@@ -1,6 +1,6 @@
 # A Practitioner's Guide to Agentic AI Tools
 
-This repository contains the slides for a talk on how economists can use agentic AI tools in their research workflow, with a focus on Claude Code by Gonzalo Ballestero.
+This repository contains the slides for a talk on how economists can use agentic AI tools in their research workflow, with a focus on Claude Code, by Gonzalo Ballestero.
 
 ---
 
